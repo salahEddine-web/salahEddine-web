@@ -36,14 +36,10 @@
 
 <br>
 
-<div align="center">
-
 ### 📊 Stats
 
-<img src="https://github.com/salahEddine-web&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
-<img src="https://github.com/salahEddine-web&layout=compact&theme=radical&hide_border=true" height="150"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=salahEddine-web&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahEddine-web&layout=compact&theme=radical&hide_border=true" height="150"/>
 
 <br>
 
