@@ -9,11 +9,11 @@
 ---
 
 ### 🚀 About Me
-🔭 Actuellement stagiaire chez **SOREC**, où je travaille sur **[Concentrateur/Developer Frontend]**
-🌱 I'm currently learning **[Next.js, GraphQL, Flutter, Java, Spring Boot...]**
-👯 I'm looking to collaborate on **open-source projects**
-💬 Ask me about **Angular, Laravel, JavaScript, TypeScript, React, Node.js**
-📫 How to reach me: **sorec.salaheddine@gmail.com**
+- 🔭 Actuellement stagiaire chez **SOREC**, où je travaille sur **[Concentrateur/Developer Frontend]**
+- 🌱 I'm currently learning **[Next.js, GraphQL, Flutter, Java, Spring Boot...]**
+- 👯 I'm looking to collaborate on **open-source projects**
+- 💬 Ask me about **Angular, Laravel, JavaScript, TypeScript, React, Node.js**
+- 📫 How to reach me: **sorec.salaheddine@gmail.com**
   
 
 ---
@@ -36,18 +36,8 @@
 
 <br>
 
-### 📊 Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salahEddine-web&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahEddine-web&layout=compact&theme=gruvbox&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salahEddine-web&theme=gruvbox&no-frame=true&row=1&column=6" />
-</p>
-<br>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=salahEddine-web&theme=gruvbox&no-frame=true&row=1&column=6" /
 <div align="center">
 
 ### 🚀 Featured Projects
