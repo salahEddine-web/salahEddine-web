@@ -1,6 +1,6 @@
 <div align="center">
 
-# Salaheddine 👨‍💻
+# Salaheddine BEN QACEM 👨‍💻
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;TypeScript+%7C+React+%7C+Node.js;Always+learning+something+new" alt="Typing SVG" />
