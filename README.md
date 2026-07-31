@@ -40,8 +40,8 @@
 
 ### 📊 Stats
 
-<img src="https://github.com/salahEddine-web/hudoo-Brand&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
-<img src="https://github.com/salahEddine-web/justice-visitor-management&layout=compact&theme=radical&hide_border=true" height="150"/>
+<img src="https://github.com/salahEddine-web&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
+<img src="https://github.com/salahEddine-web&layout=compact&theme=radical&hide_border=true" height="150"/>
 
 </div>
 
