@@ -36,10 +36,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salahEddine-web&theme=gruvbox&no-frame=true&row=1&column=6" /
-<div align="center">
-
 ### 🚀 Featured Projects
 
 </div>
