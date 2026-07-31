@@ -1,5 +1,6 @@
-<h1 align="center">I'm Salaheddine BEN QACEM👋</h1>
-<h3 align="center">Full-Stack Developer passionate about building clean, scalable web applications</h3>
+<div align="center">
+
+# Salaheddine 👨‍💻
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;TypeScript+%7C+React+%7C+Node.js;Always+learning+something+new" alt="Typing SVG" />
@@ -8,12 +9,12 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently interning at **SOREC**, working on **[project/Developer Frontend]**
-- 🌱 I'm currently learning **JAVA, Flutter & Docker**
+- 🔭 I'm currently working on **[nom de ton projet actuel]**
+- 🌱 I'm currently learning **[ex: Next.js, GraphQL, Docker...]**
 - 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Laravel, Mysql, Nosql, Angular & React**
-- 📫 How to reach me: **sorec.salaheddine@gmail.com**
-  
+- 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
+- 📫 How to reach me: **ton-email@example.com**
+- ⚡ Fun fact: **[une petite touche perso]**
 
 ---
 
@@ -37,51 +38,68 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+<td width="50%" valign="top">
 
-### 📌 Projets phares
+### 📫 Reach me
 
-#### 🔹 [Gestion Visuteur ](lien-vers-le-repo)
-Courte description du projet : ce qu'il fait, les technos utilisées.
+- 📧 [email](mailto:sorec.salaheddine@gmail.com)
+- 💼 [LinkedIn]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/salah-eddine-benqacem-ab0914337/))
 
-#### 🔹 [Nom du projet 2](lien-vers-le-repo)
-Courte description du projet : ce qu'il fait, les technos utilisées.
 
-#### 🔹 [Portfolio](lien-vers-ton-repo-portfolio)
-Mon site portfolio personnel, présentant mes projets et compétences.
+</td>
+</tr>
+</table>
 
----
+<br>
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=salaheddine-web&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salaheddine-web&layout=compact&theme=tokyonight" />
-</p>
+### 🧰 Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salaheddine-web&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,laravel,php,mongodb,postgres,git,docker,vscode" />
 
----
+</div>
 
-### 🌐 Connect with me
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/salah-eddine-benqacem-ab0914337/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <!-- <a href="https://ton-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a> -->
-  <a href="mailto:sorec.salaheddine@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
- 
-</p>
+<div align="center">
 
----
+### 📊 Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salaheddine-web&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+<img src="https://github.com/salahEddine-web/hudoo-Brand&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
+<img src="https://github.com/salahEddine-web/justice-visitor-management&layout=compact&theme=radical&hide_border=true" height="150"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🚀 Featured Projects
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+**[Gestion des visiteurs]([lien-repo](https://github.com/salahEddine-web/justice-visitor-management))**
+Une aaplication web sert à gérer les visiteurs,  Les employeirs et Les Utilisateurs de La Ministère de Justice. 
+`Laravel` `Mysql`
+
+</td>
+<td width="50%">
+
+**[Brand Hudoo]([lien-repo](https://github.com/salahEddine-web/hudoo-Brand))**
+Mon site de Brand HUDOO.
+`Next.js` `Tailwind`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=salaheddine-web&color=blueviolet&style=flat-square" />
+</div>
