@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Salaheddine 👋</h1>
+<h1 align="center">I'm Salaheddine BEN QACEM👋</h1>
 <h3 align="center">Full-Stack Developer passionate about building clean, scalable web applications</h3>
 
 <p align="center">
@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **SOREC**
-- 🌱 I'm currently learning **JAVA, Flutter Docker**
+- 🔭 Currently interning at **SOREC**, working on **[project/Developer Frontend]**
+- 🌱 I'm currently learning **JAVA, Flutter & Docker**
 - 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Laravel, Mysql, Nosql, Angular, React**
+- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Laravel, Mysql, Nosql, Angular & React**
 - 📫 How to reach me: **sorec.salaheddine@gmail.com**
   
 
