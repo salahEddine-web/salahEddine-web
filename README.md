@@ -77,10 +77,6 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salahEddine-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahEddine-web&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahEddine-web&theme=tokyonight&hide_border=true" height="165"/>
@@ -88,13 +84,14 @@
 
 <br/>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salahEddine-web&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
 
 <br/>
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/salahEddine-web/salahEddine-web/output/snake.svg"/>
+</div>
+
 
 ---
 
