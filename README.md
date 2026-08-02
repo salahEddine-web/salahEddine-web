@@ -94,13 +94,6 @@
 
 <br/>
 
-🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/salahEddine-web/salahEddine-web/output/snake.svg"/>
-</div>
-<br/>
-
 ---
 
 <div align="center">
