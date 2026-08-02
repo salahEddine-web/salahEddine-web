@@ -84,6 +84,13 @@
 
 <br/>
 
+ 💣 Bomberman
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salahEddine-web/salahEddine-web/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salahEddine-web/salahEddine-web/output/bomberman-contribution-graph.svg">
+  <img alt="Bomberman" src="https://raw.githubusercontent.com/salahEddine-web/salahEddine-web/output/bomberman-contribution-graph.svg" width="100%">
+</picture>
 
 <br/>
 
