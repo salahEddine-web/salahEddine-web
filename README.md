@@ -86,7 +86,7 @@
 
 
 <br/>
-### 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/salahEddine-web/salahEddine-web/output/snake.svg"/>
