@@ -1,66 +1,48 @@
-<div align="center">
-
-# Salaheddine BEN QACEM 👨‍💻
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;TypeScript+%7C+React+%7C+Node.js;Always+learning+something+new" alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 About Me
-- 🔭 Actuellement stagiaire chez **SOREC**, où je travaille sur **[Concentrateur/Developer Frontend]**
-- 🌱 I'm currently learning **[Next.js, GraphQL, Flutter, Java, Spring Boot...]**
-- 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **Angular, Laravel, JavaScript, TypeScript, React, Node.js**
-- 📫 How to reach me: **sorec.salaheddine@gmail.com**
-  
-
----
-
-
-
-</td>
-</tr>
-</table>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C63FF&height=200&section=header&text=Salaheddine%20Benqacem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Intern%20%40%20SOREC&descAlignY=55&descSize=18" alt="header"/>
 
 <br>
 
-<div align="center">
-
-### 🧰 Stack
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,laravel,php,mongodb,postgres,git,docker,vscode" />
-
-</div>
+Je suis Salaheddine, développeur full-stack basé au Maroc, actuellement en stage chez **SOREC** où je bosse sur des outils internes en Laravel et React. J'aime construire des interfaces propres et des back-ends bien pensés — et j'apprends de nouvelles technos dès que j'ai un peu de temps libre.
 
 <br>
 
-### 🚀 Featured Projects
+<h3>🧰 Ce que j'utilise au quotidien</h3>
 
-</div>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,laravel,php,mongodb,postgres,git,docker,vscode&theme=dark" />
 
-<table align="center">
-<tr>
-<td width="50%">
+<br><br>
 
-**[Gestion des visiteurs]([lien-repo](https://github.com/salahEddine-web/justice-visitor-management))**
-Une aaplication web sert à gérer les visiteurs,  Les employeirs et Les Utilisateurs de La Ministère de Justice. 
-`Laravel` `Mysql`
+<h3>📊 Un peu d'activité</h3>
 
-</td>
-<td width="50%">
-
-**[Brand Hudoo]([lien-repo](https://github.com/salahEddine-web/hudoo-Brand))**
-Mon site de Brand HUDOO.
-`Next.js` `Tailwind`
-
-</td>
-</tr>
-</table>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=salahEddine-web&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahEddine-web&layout=compact&theme=dracula&hide_border=true" height="165"/>
 
 <br>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=salaheddine-web&color=blueviolet&style=flat-square" />
-</div>
+<h3>🐍 Contributions dans le temps</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salahEddine-web/salahEddine-web/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/salahEddine-web/salahEddine-web/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+
+<h3>🚀 Quelques projets</h3>
+
+**[Gestion des visiteurs](https://github.com/salahEddine-web/justice-visitor-management)**
+Une application web pour gérer les visiteurs et employés du Ministère de la Justice. `Laravel` `MySQL`
+
+**[Brand Hudoo](https://github.com/salahEddine-web/Portfolio)**
+Le site vitrine de ma marque, HUDOO. `Next.js` `Tailwind`
+
+<br>
+
+<h3>📫 Me contacter</h3>
+
+<a href="mailto:sorec.salaheddine@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/salah-eddine-benqacem-ab0914337/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C63FF&height=100&section=footer"/>
