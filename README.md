@@ -11,20 +11,13 @@
 
 ### 🚀 About Me
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🔭%20Current-SOREC-2E9EF7?style=for-the-badge&logo=github&logoColor=white"/>
-      <br/><sub>Frontend Developer Intern</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🌱%20Learning-Next.js%2C%20GraphQL%2C%20Flutter%2C%20Java%2C%20Spring%20Boot-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🤝%20Open%20to-Open%20Source%20Collab-4ECDC4?style=for-the-badge&logo=github&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<p align="center" style="font-size: 1.05rem; line-height: 1.7; max-width: 700px; color: #e4e4e7;">
+  Full-Stack Developer basé au <b>Maroc</b>, actuellement <b>stagiaire chez SOREC</b> où je construis des applications internes avec <b>Laravel</b> et <b>React</b>. 
+  <br/><br/>
+  Je conçois des interfaces utilisateur <b>performantes, accessibles et élégantes</b> avec <b>TypeScript, React, Next.js</b> et <b>Tailwind CSS</b>, et j'architecte des APIs robustes en <b>Node.js, Laravel (PHP)</b> avec <b>PostgreSQL</b> / <b>MongoDB</b>.
+  <br/><br/>
+  En apprentissage continu : <b>GraphQL, Flutter/Dart, Java Spring Boot</b>. Ouvert aux collaborations <b>open-source</b> et aux défis techniques stimulants.
+</p>
 
 <br/>
 
