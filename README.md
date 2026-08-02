@@ -84,8 +84,16 @@
 
 <br/>
 
+### 👾 Space Invaders
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salahEddine-web/salahEddine-web/output/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salahEddine-web/salahEddine-web/output/commit-invaders.svg">
+  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/salahEddine-web/salahEddine-web/output/commit-invaders.svg" width="100%">
+</picture>
 
 <br/>
+
 🐍 Contribution Snake
 
 <div align="center">
